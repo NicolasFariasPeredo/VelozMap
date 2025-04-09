@@ -22,17 +22,7 @@
    git clone https://github.com/tu_usuario/velozmap.git
    cd velozmap
 
-## Uso
-
-Ejecuta el script `escaneo.py` con el modo de escaneo que desees y la IP o rango de IPs que quieras escanear:
-
-```bash
-python3 escaneo.py {discreto|medio|rapido} <IP>```
-
-
-## Licencia MIT
-
-Este proyecto está licenciado bajo la **Licencia MIT**. A continuación se detalla el texto de la licencia: MIT License
+## MIT License
 
 Copyright (c) [2025] [Nicolás Farias Peredo]
 
