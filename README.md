@@ -30,7 +30,7 @@ Ejecuta el script `escaneo.py` con el modo de escaneo que desees y la IP o rango
 python3 escaneo.py {discreto|medio|rapido} <IP>
 
 
-# Licencia MIT
+## Licencia MIT
 
 Este proyecto está licenciado bajo la **Licencia MIT**. A continuación se detalla el texto de la licencia: MIT License
 
