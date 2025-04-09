@@ -27,7 +27,7 @@
 Ejecuta el script `escaneo.py` con el modo de escaneo que desees y la IP o rango de IPs que quieras escanear:
 
 ```bash
-python3 escaneo.py {discreto|medio|rapido} <IP>
+python3 escaneo.py {discreto|medio|rapido} <IP>```
 
 
 ## Licencia MIT
